@@ -7,6 +7,7 @@ int main()
     printf("Hello World! & 886");
 
     printf("\nmaster test")
+    printf("\nhot_fix test");
 
     return 0;
 }
